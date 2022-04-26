@@ -1,0 +1,25 @@
+{
+  "name": "NCVMonitor",
+  "version": "1.0.0",
+  "description": "site que mostra a localização do veículo capotado",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MARCELOASSIS87/NCVMonitor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MARCELOASSIS87/NCVMonitor/issues"
+  },
+  "homepage": "https://github.com/MARCELOASSIS87/NCVMonitor#readme",
+  "dependencies": {
+    "next": "^12.1.5",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
